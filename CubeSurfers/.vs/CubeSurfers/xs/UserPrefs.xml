@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{03B4AE5F-A3B0-A23A-0FCF-63C43EC4589F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuInGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MenuInGame.cs" Line="22" Column="19" />
+      <File FileName="Assets/Scripts/Toplayici.cs" Line="26" Column="31" />
+      <File FileName="Assets/Scripts/AdditionScript.cs" Line="9" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CubeSurfers" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a6c9bf91-8da0-4cbd-b96c-762f40f60fb8" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
